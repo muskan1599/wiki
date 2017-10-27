@@ -1,2 +1,3 @@
 # wiki
-how to sum numbers
+how to sum numbers 
+and get the required result.
